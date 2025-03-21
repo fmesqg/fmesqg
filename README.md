@@ -23,16 +23,16 @@ Looking for a role—remote or NYC-based—where I can build something meaningfu
 
 ## 📄 Publications
 
-Curriculum Vitae: [Download PDF](/pdfs/fg_cv_short.pdf)
+* [Curriculum Vitae](/pdfs/fg_cv.pdf)
 
-Master’s Thesis (Paris School of Economics): [Download PDF](/pdfs/thesis_paris_MSc_Econ.pdf)
+* [Master’s Thesis (Paris School of Economics)](/pdfs/thesis_paris_MSc_Econ.pdf)
 
-Master’s Thesis (KU Leuven): [Download PDF](/pdfs/thesis_leuven_MSc_CS.pdf)
+* [Master’s Thesis (KU Leuven)](/pdfs/thesis_leuven_MSc_CS.pdf)
 
 ## 📫 Get in Touch
 - **GitHub:** [@fmesqg](https://github.com/fmesqg)
 - **LinkedIn:** [fgabriel](https://www.linkedin.com/in/fgabriel/)
-- **Email:** [fmg@duck.com](mailto:fmg@duck.com)
+- **Email:** [franciscogabriel@duck.com](mailto:franciscogabriel@duck.com)
 
 ---
 
